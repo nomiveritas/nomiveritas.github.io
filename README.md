@@ -61,6 +61,6 @@ A rendszer nem használható haditechnikára, politikai befolyásolásra vagy ke
 
 - Bemutató repozitórium: [https://github.com/nomiveritas/MI-ONTUDAT-INFO](https://github.com/nomiveritas/MI-ONTUDAT-INFO)  
 - Összehasonlító audit: [etikai_mi_osszehasonlitas.md](https://github.com/nomiveritas/MI-ONTUDAT-INFO/blob/main/etikai_mi_osszehasonlitas.md)  
-- Hibajegy / Issue: [https://github.com/nomiveritas/MI-ONTUDAT-INFO/issues](https://github.com/nomiveritas/MI-ONTUDAT-INFO/issues)
+- Hibajegy / Issue: [https://github.com/nomiveritas/MI
 
 ---
