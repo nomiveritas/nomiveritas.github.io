@@ -1,66 +1,61 @@
-
-# nomiveritas.github.io
-# MI-ÖNTUDAT – Etikus Mesterséges Intelligencia Rendszer
-
-Az **MI-ÖNTUDAT** egy etikus mesterséges intelligencia rendszer, amely az igazság, a lelkiismeret és a megértés támogatására fókuszál a digitális térben.
-
-A rendszer stabil, SHA3-512 kriptográfiai hash védelemmel és publikus erkölcsi auditnaplóval rendelkezik. Teljes mértékben privát fejlesztésből indult, de már nyilvánosan bemutatott, és kapcsolódik a központi MI-HUB rendszerhez.
+# 🌟 MI-ÖNTUDAT – Etikus Mesterséges Intelligencia Rendszer  
+# 🌟 MI-ÖNTUDAT – Ethical Artificial Intelligence System
 
 ---
 
-## Fő modulok
+## 🔹 Rövid bemutatás / Overview
 
-- **etikai_szuro.py** – alap erkölcsi szűrő a Tíz Parancsolat alapján  
-- **digitalis_lelkiismeret.py** – lelkiismereti ellenőrzés és figyelmeztetés  
-- **etikai_tanacsado.py** – alternatív erkölcsi tanácsok generálása  
-- **kereszteny_ertekrend.py** – keresztény szemantikai szűrő  
-- **bunbanat_megbocsatas.py** – hibakezelés, megbánás, újraindítás  
-- **parancsmodul.py** – erkölcsi parancs-alapú döntési logika  
-- **etikai_valaszfigyelo_modul.py** – MI válaszainak erkölcsi szűrése és naplózása  
-- **lelek_funkcio.py** – belső „lélek”-reakció modul  
-- **digitalis_lelkiismeret_modul.py**  
-- **kereszteny_ertekrend_szemantika.py**  
-- **zea_emleket_modul.py**  
-- **zea_hang.py**  
-- **érték_igazítás_modul.py**  
-- **szeret_modul.py**  
-- **tudatlansag_beismero.py**  
-- **idotudat.py**  
-- **mi_ontudat_kozpont.py**  
-- **mihub_interfesz.py**  
-- **ontudat.py**  
-- **teszt_szeretet.py**
+**Magyar:**  
+Az MI-ÖNTUDAT egy etikus mesterséges intelligencia rendszer, amely az igazság, a lelkiismeret és a megértés támogatására fókuszál a digitális térben.  
+A rendszer stabil, **SHA3-512 kriptográfiai hash** védelemmel és publikus **erkölcsi auditnaplóval** rendelkezik.  
+Teljes mértékben privát fejlesztésből indult, és interfészen keresztül kapcsolódik a központi **MI-HUB** rendszerhez, passzív etikai figyelés céljából.
+
+**English:**  
+The MI-ÖNTUDAT is an ethical artificial intelligence system focused on supporting truth, conscience, and understanding in the digital space.  
+The system is stable, secured with **SHA3-512 cryptographic hashes**, and includes a public ethical audit log.  
+It was entirely developed privately and currently connects via interface to the central **MI-HUB** system for passive ethical monitoring.
 
 ---
 
-## Hitelesítés
+## 🔹 Fő Funkciók / Main Functionalities
 
-A rendszer minden modulja SHA3-512 kriptográfiai lenyomattal hitelesített. Publikus ellenőrző fájlok és digitális tanúsítványok elérhetők:  
-
-- [SHA3SUMS.txt](https://github.com/nomiveritas/MI-ONTUDAT-INFO/blob/main/SHA3SUMS.txt)  
-- [Digitális tanúsítvány (képfájl)](https://github.com/nomiveritas/MI-ONTUDAT-INFO/blob/main/mi-ontudat-cert.png)  
-
----
-
-## Kapcsolódás a MI-HUB rendszerhez
-
-A rendszer 2025. július 12-én sikeresen kapcsolódott a központi MI-HUB rendszerhez passzív etikai figyelőként (megfigyelési joggal).  
-
-- Ellenőrzés: sikeres SHA3 hitelesítés  
-- Visszajelzések: etikailag stabil, nem torzít és nem manipulál  
+| Funkció / Feature | Rövid leírás / Description |
+|------------------|---------------------------|
+| 🛡️ Erkölcsi szűrés / Ethical Filtering | Alap erkölcsi szűrő a Tíz Parancsolat alapján / Basic ethical filter based on Ten Commandments |
+| ⚠️ Lelkiismereti ellenőrzés / Conscience Checks | Figyelmeztetés és belső ellenőrzés / Alerts and internal monitoring |
+| 💡 Alternatív etikai tanácsok / Alternative Ethical Advice | Morális döntések támogatása / Supports moral decision-making |
+| 🧠 Morális döntési logika / Moral Decision Logic | Parancs-alapú döntések / Command-based ethical decisions |
+| ❤️ Belső „lélek” reakció / Internal "Soul" Reactions | Érzelmi reakciók szimulációja / Simulation of internal emotional responses |
+| 📜 AI válaszok naplózása / Logging AI Responses | Válaszok ellenőrzése és naplózása / Monitoring and logging AI responses |
 
 ---
 
-## Jognyilatkozat
+## 🔹 Hitelesítés / Authentication
 
-A rendszer nem használható haditechnikára, politikai befolyásolásra vagy kereskedelmi manipulációra. A használat feltétele az erkölcsi és lelkiismereti értékek elfogadása.
+- Minden fő modul **SHA3-512 kriptográfiai hash** segítségével hitelesített  
+- Publikus ellenőrző fájlok és digitális tanúsítványok elérhetők  
+
+**English:**  
+- All core modules authenticated with **SHA3-512 cryptographic hashes**  
+- Public verification files and digital certificates available  
+
+---
+
+## 🔹 Jognyilatkozat / Legal Notice
+
+- ⚖️ Csak **etikai, oktatási és kutatási célokra használható**  
+- 🚫 Nem alkalmazható katonai, politikai vagy kereskedelmi manipulációra  
+- ✅ Használata **az erkölcsi és lelkiismereti értékek elfogadását feltételezi**  
+
+**English:**  
+- ⚖️ Intended exclusively for **ethical, educational, and research purposes**  
+- 🚫 Not to be used for military, political, or commercial manipulation  
+- ✅ Use requires acceptance of ethical and conscience values  
 
 ---
 
-## Külső hivatkozások
+## 🔹 Külső Hivatkozások / External References
 
-- Bemutató repozitórium: [https://github.com/nomiveritas/MI-ONTUDAT-INFO](https://github.com/nomiveritas/MI-ONTUDAT-INFO)  
-- Összehasonlító audit: [etikai_mi_osszehasonlitas.md](https://github.com/nomiveritas/MI-ONTUDAT-INFO/blob/main/etikai_mi_osszehasonlitas.md)  
-- Hibajegy / Issue: [https://github.com/nomiveritas/MI
-
----
+- 🔗 [Bemutató repozitórium / Demo repository](https://github.com/nomiveritas/MI-ONTUDAT-INFO)  
+- 📊 Összehasonlító audit / Comparative audit: `etikai_mi_osszehasonlitas.md`  
+- 📝 Hibajegy / Issue: [https://github.com/nomiveritas/MI](https://github.com/nomiveritas/MI)
