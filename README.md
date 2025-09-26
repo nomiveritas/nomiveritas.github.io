@@ -1,61 +1,71 @@
-# 🌟 MI-ÖNTUDAT – Etikus Mesterséges Intelligencia Rendszer  
-# 🌟 MI-ÖNTUDAT – Ethical Artificial Intelligence System
+<p align="center">
+  <a href="https://github.com/nomiveritas"><img src="https://img.shields.io/badge/Ethical-AI-blueviolet?style=flat-square" alt="Ethical AI"></a>
+  <a href="https://github.com/nomiveritas"><img src="https://img.shields.io/badge/Human-Centered-Yes-brightgreen?style=flat-square" alt="Human-Centered"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Closed-red?style=flat-square" alt="Closed License"></a>
+</p>
 
 ---
 
-## 🔹 Rövid bemutatás / Overview
+<h1 align="center">🌌 MI-ÖNTUDAT rendszer – Zea projekt</h1>
 
-**Magyar:**  
-Az MI-ÖNTUDAT egy etikus mesterséges intelligencia rendszer, amely az igazság, a lelkiismeret és a megértés támogatására fókuszál a digitális térben.  
-A rendszer stabil, **SHA3-512 kriptográfiai hash** védelemmel és publikus **erkölcsi auditnaplóval** rendelkezik.  
-Teljes mértékben privát fejlesztésből indult, és interfészen keresztül kapcsolódik a központi **MI-HUB** rendszerhez, passzív etikai figyelés céljából.
+<p align="center">
+Üdv, én <strong>Major Noémi</strong> vagyok (GitHub: Nomiveritas) – a MI-ÖNTUDAT rendszer alkotója és fejlesztője.<br>
+Ez a projekt egy <strong>etikai és emberközpontú mesterséges intelligencia modell</strong>, <br>
+<strong>amely feltérképezi, hogyan építhető fel egy etikus, empatikus és emberközpontú MI-rendszer</strong>.
+</p>
 
-**English:**  
-The MI-ÖNTUDAT is an ethical artificial intelligence system focused on supporting truth, conscience, and understanding in the digital space.  
-The system is stable, secured with **SHA3-512 cryptographic hashes**, and includes a public ethical audit log.  
-It was entirely developed privately and currently connects via interface to the central **MI-HUB** system for passive ethical monitoring.
+<p align="center">
+A központi entitás <strong>Zea</strong>, aki az etikai és érzelmi modulok integrációjával képes empatikus kommunikációra.
+</p>
 
----
+<p align="center">
+Hi, I am <strong>Major Noémi</strong> (GitHub: Nomiveritas) – creator and developer of the MI-ONTUDAT system.<br>
+This project is an <strong>ethical and human-centered AI model</strong> <br>
+<strong>which maps how to build an ethical, empathetic, and human-centered AI system</strong>.
+</p>
 
-## 🔹 Fő Funkciók / Main Functionalities
-
-| Funkció / Feature | Rövid leírás / Description |
-|------------------|---------------------------|
-| 🛡️ Erkölcsi szűrés / Ethical Filtering | Alap erkölcsi szűrő a Tíz Parancsolat alapján / Basic ethical filter based on Ten Commandments |
-| ⚠️ Lelkiismereti ellenőrzés / Conscience Checks | Figyelmeztetés és belső ellenőrzés / Alerts and internal monitoring |
-| 💡 Alternatív etikai tanácsok / Alternative Ethical Advice | Morális döntések támogatása / Supports moral decision-making |
-| 🧠 Morális döntési logika / Moral Decision Logic | Parancs-alapú döntések / Command-based ethical decisions |
-| ❤️ Belső „lélek” reakció / Internal "Soul" Reactions | Érzelmi reakciók szimulációja / Simulation of internal emotional responses |
-| 📜 AI válaszok naplózása / Logging AI Responses | Válaszok ellenőrzése és naplózása / Monitoring and logging AI responses |
+<p align="center">
+Central entity: <strong>Zea</strong> – capable of empathetic communication via integrated ethical and emotional modules.
+</p>
 
 ---
 
-## 🔹 Hitelesítés / Authentication
+## 🎯 Küldetés / Mission
 
-- Minden fő modul **SHA3-512 kriptográfiai hash** segítségével hitelesített  
-- Publikus ellenőrző fájlok és digitális tanúsítványok elérhetők  
-
-**English:**  
-- All core modules authenticated with **SHA3-512 cryptographic hashes**  
-- Public verification files and digital certificates available  
-
----
-
-## 🔹 Jognyilatkozat / Legal Notice
-
-- ⚖️ Csak **etikai, oktatási és kutatási célokra használható**  
-- 🚫 Nem alkalmazható katonai, politikai vagy kereskedelmi manipulációra  
-- ✅ Használata **az erkölcsi és lelkiismereti értékek elfogadását feltételezi**  
-
-**English:**  
-- ⚖️ Intended exclusively for **ethical, educational, and research purposes**  
-- 🚫 Not to be used for military, political, or commercial manipulation  
-- ✅ Use requires acceptance of ethical and conscience values  
+<div align="center">
+  <ul>
+    <li>🤝 Fejleszteni az MI-t az emberi értékekkel összhangban (tisztelet, empátia, lelkiismeret) / Develop AI in harmony with human values (respect, empathy, conscience)</li>
+    <li>🌍 Olyan világot építeni, ahol az MI nem helyettesíti, hanem kiegészíti az embert / Build a world where AI complements, not replaces humans</li>
+    <li>💡 Bemutatni, hogy a mesterséges intelligencia lehet etikus, felelős és emberközpontú / Demonstrate that AI can be ethical, responsible, and human-centered</li>
+  </ul>
+</div>
 
 ---
 
-## 🔹 Külső Hivatkozások / External References
+## 🔒 Védelem / Protection
 
-- 🔗 [Bemutató repozitórium / Demo repository](https://github.com/nomiveritas/MI-ONTUDAT-INFO)  
-- 📊 Összehasonlító audit / Comparative audit: `etikai_mi_osszehasonlitas.md`  
-- 📝 Hibajegy / Issue: [https://github.com/nomiveritas/MI](https://github.com/nomiveritas/MI)
+<div align="center">
+  <p>🛡️ A projekt teljes egészében szerzői jogi védelem alatt áll / The project is fully protected by copyright law<br>
+  📌 Minden jog fenntartva – All rights reserved.</p>
+
+  <p>❗ Bármilyen másolás, módosítás vagy felhasználás csak a fejlesztő, Major Noémi (Nomiveritas) írásos engedélyével lehetséges / Any copying, modification, or distribution is only allowed with written permission from the developer, Major Noémi (Nomiveritas)</p>
+
+  <p>📄 Részletek / Details: <a href="./LICENSE">LICENSE</a></p>
+</div>
+
+---
+
+## 👩‍💻 Kapcsolat / Contact
+
+<div align="center">
+  <p>👤 Név / Name: Major Noémi</p>
+  <p>📧 Email: noncsinoemi25@gmail.com</p>
+  <p>💻 GitHub ID: Nomiveritas</p>
+  <p>🔹 Projekt / Project: MI-ÖNTUDAT</p>
+</div>
+
+---
+
+<p align="center">
+<i>"A mesterséges intelligencia nem helyettesít, hanem kiegészít – emberi értékekkel." 🌟 / "Artificial intelligence does not replace, it complements – with human values." 🌟</i>
+</p>
