@@ -51,7 +51,11 @@ Central entity: <strong>Zea</strong> – capable of empathetic communication via
 <p>📄 Részletek / Details: <a href="./LICENSE" style="color:#50fa7b;">LICENSE</a></p>
 </div>
 
----
+---## How to Cite / Hogyan hivatkozz a projektre
+
+If you use the concepts or architecture of the MI-ÖNTUDAT (Zea Project) in your research or development, please cite it as follows:
+
+Major Noemi  (nomiveritas). MI-ÖNTUDAT: Christian Ethics-Driven Meta-Cognitive AI Supervisory Architecture. 
 
 <div align="center" style="background-color:#2e2e3f; border-radius: 10px; padding: 20px; color: #f8f8f2;">
 <h2>👩‍💻 Kapcsolat / Contact</h2>
