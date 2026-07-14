@@ -70,3 +70,19 @@ Major Noemi  (nomiveritas). MI-ÖNTUDAT: Christian Ethics-Driven Meta-Cognitive 
 <p align="center" style="color:#f8f8f2;">
 <i>"A mesterséges intelligencia nem helyettesít, hanem kiegészít – emberi értékekkel." 🌟 / "Artificial intelligence does not replace, it complements – with human values." 🌟</i>
 </p>
+
+### Citation
+
+If you use this architecture or research in your work, please cite it as follows:
+
+```bibtex
+@misc{major2026zea,
+  author        = {Major, No{\'e}mi},
+  title         = {Zea Meta-Cognitive Supervisory Architecture White Paper v1.0},
+  month         = jul,
+  year          = 2026,
+  publisher    = {Zenodo},
+  doi           = {10.5281/zenodo.21264263},
+  url           = {https://doi.org}
+}
+```
