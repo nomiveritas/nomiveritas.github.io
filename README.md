@@ -51,7 +51,23 @@ Central entity: <strong>Zea</strong> – capable of empathetic communication via
 <p>📄 Részletek / Details: <a href="./LICENSE" style="color:#50fa7b;">LICENSE</a></p>
 </div>
 
----## How to Cite / Hogyan hivatkozz a projektre
+
+
+If you use this architecture or research in your work, please cite it as follows:
+
+```bibtex
+@misc{major2026zea,
+  author        = {Major, No{\'e}mi},
+  title         = {Zea Meta-Cognitive Supervisory Architecture White Paper v1.0},
+  month         = jul,
+  year          = 2026,
+  publisher     = {Zenodo},
+  doi           = {10.5281/zenodo.21264263},
+  url           = {https://doi.org}
+}
+```
+
+
 
 If you use the concepts or architecture of the MI-ÖNTUDAT (Zea Project) in your research or development, please cite it as follows:
 
