@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or architecture design, please cite it as below."
+authors:
+  - family-names: "Major"
+    given-names: "Noémi"
+    alias: "@nomiveritas"
+title: "Zea Meta-Cognitive Supervisory Architecture: Philosophical, Technical and Ethical Approach"
+version: "1.0.0"
+doi: "10.5281/zenodo.21264263"
+date-released: "2026-07-02"
+url: "https://zenodo.org"
+keywords:
+  - "metacognitive-ai"
+  - "ai-ethics"
+  - "supervisory-architecture"
+  - "flask"
+  - "python"
